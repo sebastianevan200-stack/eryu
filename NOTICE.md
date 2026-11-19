@@ -1,48 +1,37 @@
 # Copyright & Licensing
 
 Eryu
+
+Copyright (c) 2025 sebastianevan200-stack
 Copyright (c) 2026 Evelyn & River
 
-Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-International License (**CC BY-NC-SA 4.0**). Full text in [LICENSE](LICENSE).
-
----
+Licensed under the **MIT License**. See [LICENSE](LICENSE) for the controlling text.
 
 ## In plain words
 
-This summary has **no legal force**; [LICENSE](LICENSE) governs.
+You may use, copy, modify, distribute, sublicense, and commercially use this
+project, including in proprietary software, provided that the copyright and
+permission notices are included in copies or substantial portions of the software.
+The software is provided as is, without warranty.
 
-**You may**
-- use and modify this project freely
-- redistribute it, including versions you changed
+This license covers the project's own code and documentation. Third-party services,
+music, lyrics, artwork, and dependencies remain subject to their respective rights,
+licenses, and service terms.
 
-**You must**
-- keep the copyright notice above, credit the original source, and state what you changed
-- release any modified or derivative version **under CC BY-NC-SA 4.0 as well, with its source code public** — no closed-sourcing
+## 中文说明
 
-**You may not**
-- use this for commercial advantage or monetary compensation. That includes: bundling it into a paid product or paid service, shipping it as part of a paid feature or subscription, or otherwise charging for it
+本项目采用 MIT 许可证，允许使用、复制、修改、再分发和商业使用，也允许在闭源项目中使用。
+软件的副本或实质性部分须保留原版权声明及许可声明。软件按现状提供，不附带担保。
 
-For commercial licensing, contact the copyright holders separately.
+本许可证仅覆盖本项目自身代码与文档，不授予第三方服务、音乐、歌词、图片或第三方依赖的权利。
+使用相关服务或内容时仍须遵守各自的授权及服务条款。
 
----
+## License history / 授权历史
 
-## 人话版
+- Before 2026-08-16: MIT License.
+- From 2026-08-16 until this licensing change: CC BY-NC-SA 4.0.
+- Starting with the commit restoring MIT (2026-11-20): MIT License.
 
-**可以** —— 自由使用、修改、再分发，包括你改过的版本。
-**必须** —— 保留版权声明，注明来源，说明你改了什么；你发布的修改版本身也要以
-CC BY-NC-SA 4.0 发布并公开源码，不许闭源。
-**不许** —— 任何以商业获利为目的的使用：接入付费产品或服务、作为付费功能或
-订阅内容的一部分、以此换取报酬。
+Previously granted rights remain valid. The Git history preserves prior license texts.
 
-需要商业授权请单独联系版权持有人。
-
----
-
-## License change
-
-This project was previously released under the MIT License. Copies obtained
-under MIT before 2026-08-16 remain governed by those terms. CC BY-NC-SA 4.0
-applies to all versions released on or after that date.
-
-本项目 2026-08-16 之前曾以 MIT 发布，在那之前取得副本的人权利不受影响。
+本次修改自恢复 MIT 的提交起生效，不撤销此前已授予的许可权利。历史授权文本可在 Git 历史中查阅。

@@ -76,14 +76,14 @@ pip install librosa numpy matplotlib
 
 ## License
 
-**CC BY-NC-SA 4.0** © 2026 Evelyn & River.
+Eryu is licensed under the [MIT License](LICENSE).
+Copyright (c) 2025 sebastianevan200-stack; © 2026 Evelyn & River.
 
-- ✅ Use, modify and redistribute freely
-- ✅ Keep the attribution, credit the source, state your changes
-- ⚠️ Derivative versions must stay **open source under the same license** — no closed-sourcing
-- ❌ No commercial use — not in a paid product, paid service, or paid feature
+Use, modification, redistribution, and commercial use are permitted under the
+MIT License, provided the copyright and permission notices are preserved.
 
-For commercial licensing, get in touch. See [NOTICE.md](NOTICE.md) for the
-plain-language summary and [LICENSE](LICENSE) for the full text.
-
-> Previously released under MIT; copies obtained before 2026-08-16 keep those terms.
+This license applies to the version restoring MIT and subsequent MIT-licensed
+releases. Previously granted licenses remain valid; see [NOTICE.md](NOTICE.md).
+The license covers this project's own code and documentation, not third-party
+services, music, lyrics, artwork, or other third-party material. Respect the
+applicable rights and terms of those services and materials.
